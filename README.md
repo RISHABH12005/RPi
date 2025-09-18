@@ -44,4 +44,4 @@
 | 39 | GND     | GND        | Ground |
 | 40 | GPIO21  | PCM_DOUT   | Pulse Code Modulation Audio Data Out / SPI1 SCLK |
 
-- For [More]() 
+- For [More](https://github.com/RISHABH12005/RPi/blob/main/GPIO.md) 
