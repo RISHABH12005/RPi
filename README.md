@@ -1,8 +1,6 @@
 # Raspberry Pi Hardware & OS
 
 ## RPi GPIO Pins
-# Raspberry Pi 40-Pin Header – All Pins (No Dashes)
-
 | Physical Pin | GPIO | Name | Function |
 |--------------|------|------|----------|
 | 1  | VCC     | 3V3   | 3.3 Volt Power Supply |
@@ -45,3 +43,5 @@
 | 38 | GPIO20  | PCM_DIN    | Pulse Code Modulation Audio Data In / SPI1 MOSI |
 | 39 | GND     | GND        | Ground |
 | 40 | GPIO21  | PCM_DOUT   | Pulse Code Modulation Audio Data Out / SPI1 SCLK |
+
+- For [More]() 
