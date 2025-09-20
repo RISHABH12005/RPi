@@ -1,10 +1,10 @@
 # Raspberry Pi Hardware & OS
 
 ## Used RPi
-- [Raspberry Pi 5]()
-- [Raspberry Pi 4 Model B](https://github.com/RISHABH12005/RPi/blob/main/rpi4b.md)
-- [Raspberry Pi 3 Model B+](https://github.com/RISHABH12005/RPi/blob/main/rpi3%2B.md)
-- [Raspberry Pi 3 Model B](https://github.com/RISHABH12005/RPi/blob/main/rpi3b.md)
+- [Raspberry Pi 5](https://github.com/RISHABH12005/RPi/blob/main/RPi5.md)
+- [Raspberry Pi 4 Model B](https://github.com/RISHABH12005/RPi/blob/main/RPi4B.md)
+- [Raspberry Pi 3 Model B+](https://github.com/RISHABH12005/RPi/blob/main/RPi3B+.md)
+- [Raspberry Pi 3 Model B](https://github.com/RISHABH12005/RPi/blob/main/RPi3B.md)
 
 ## Overview
 A ultra compact, low cost single board computer, RPi OS is its optimized Linux based OS. Together they form a powerful, low power platform for learning, prototyping, innovation.
