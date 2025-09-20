@@ -1,5 +1,26 @@
 # Raspberry Pi Hardware & OS
 
+## Used RPi
+- [Raspberry Pi 5]()
+- [Raspberry Pi 4 Model B]()
+- [Raspberry Pi 3 Model B+]()
+- [Raspberry Pi 3 Model B]()
+
+## Overview
+A ultra compact, low cost single board computer, RPi OS is its optimized Linux based OS. Together they form a powerful, low power platform for learning, prototyping, innovation.
+
+## Key Features & Advantages
+1. *Low-Cost & Low Power:* RPi offers a compact, affordable computing solution with minimal energy usage.
+2. *Versatility:* It can act as a desktop, server, IoT controller, robotics brain or media center.
+3. *Optimized OS:* RPi OS based on Debian provides stability, speed & built-in development tools tailored for Pi hardware.
+4. *Open Source Ecosystem:* Access thousands of free applications, GPIO libraries & programming languages for seamless project building.
+
+## Perfect For
+- Education & Programming
+- IoT & Robotics Projects
+- Prototyping & Embedded Systems
+- Media Centers & Servers
+
 ## RPi GPIO Pins
 | Physical Pin | GPIO | Name | Function |
 |--------------|------|------|----------|
